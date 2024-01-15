@@ -1,4 +1,4 @@
-# A New Stackbit Project
+# A New Stackbit Project!
 
 Welcome to your new project created with Stackbit!
 
